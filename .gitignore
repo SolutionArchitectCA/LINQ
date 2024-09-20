@@ -1,0 +1,63 @@
+# Build Folders
+bin/
+obj/
+
+# VSCode specific
+.vscode/
+
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET files
+appsettings.Development.json
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+
+# Logs and Database
+*.log
+*.tlog
+*.ide.log
+*.sqlite
+*.db
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework Migrations
+Migrations/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Microsoft Azure
+.ssmc
+
+# Rider IDE
+.idea/
+*.idea
+
+# Resharper
+_ReSharper.Caches/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.old
+*.orig
+*.merge
